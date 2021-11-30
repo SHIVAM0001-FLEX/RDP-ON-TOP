@@ -39,7 +39,7 @@ jobs:
     - name: Please Connect Your RDP 8GB RAM/225GB SSD/2 CORES
       run: cmd /c start.bat
     - name: Done!
-      run: | 
-        Invoke-WebRequest https://github.com/learnseconde/new_rdp1/raw/main/loop1.ps1 -OutFile loop.ps1
-        ./loop.ps1
+     
+   
+
         
